@@ -24,6 +24,7 @@ The primary objectives of this project include:
 - **Overall Attrition Rate**: Displayed using a prominent card visual to show the percentage of employees who left.
 - **Total Employees**: A card visual showing the total count of employees in the dataset.
 - **Employees Who Left**: A card visual that displays the number of employees who left during the analysis period.
+- **Attrition by Years at Company (Tenure)**: A card visual that displays the Average years spent at the company by Employee
 
 ### Visual Analysis
 - **Attrition by Age Group**: A column chart that highlights attrition rates across different age groups, helping to identify the most vulnerable age segments.
@@ -41,9 +42,6 @@ The primary objectives of this project include:
 ### Interactivity
 - **Buttons for Department Filtering**: Instead of using slicers, **buttons** are used to allow users to switch between different departments. These buttons help to focus the analysis on specific departments, offering tailored insights for each one.
 
-### Insights & Recommendations
-- The dashboard also includes **text boxes** highlighting key findings, such as the age group most prone to leaving, departments with the highest attrition rates, and insights based on employee income and tenure.
-- **Recommendations** are provided based on the analysis, suggesting potential areas for HR intervention.
 
 ## Tools & Technologies Used
 
@@ -56,18 +54,5 @@ The primary objectives of this project include:
 
 - **GreenDestination.pbix**: Power BI file containing the full employee attrition analysis and interactive dashboard.
 
-## Internship Information
-
-This project was completed as part of my internship at **Unified Mentor Pvt. Ltd**. During this internship, I was tasked with analyzing employee attrition data for Green Destinations to help identify patterns and trends. The internship allowed me to develop my skills in Power BI, data analysis, and DAX calculations while providing valuable insights to the company.
-
-## Key Learning Outcomes
-
-- Gained hands-on experience using **Power BI** for creating dynamic, interactive reports and dashboards.
-- Developed proficiency in **DAX** for writing calculated measures and columns to perform advanced analysis.
-- Enhanced my ability to **present data insights** in a clear and meaningful way, offering actionable insights for HR decision-making.
-
-## Contact Information
-
-Feel free to reach out for any queries related to this project:
 
 - **
