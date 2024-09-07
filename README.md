@@ -31,7 +31,6 @@ The primary objectives of this project include:
 - **Attrition by Job Role**: A clustered bar chart displaying the attrition rates across different job roles such as Sales Executive, Research Scientist, and Manager.
 - **Attrition by Department**: A column chart where users can switch between departments using interactive buttons, offering an in-depth look into attrition across Sales, Research & Development, and Human Resources.
 - **Attrition by Monthly Income**: A scatter plot showing the relationship between monthly income and employee attrition, providing insights into whether higher or lower salaries impact turnover rates.
-- **Attrition by Years at Company (Tenure)**: A line chart that visualizes how years spent at the company influence the likelihood of leaving.
 
 ### Additional Insights
 - **Attrition by Gender**: A pie chart visualizing the distribution of male and female employees who left the company.
